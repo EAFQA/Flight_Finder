@@ -2,11 +2,13 @@
 
 Escopo realizado de acordo com a solicitação da Empresa.
 
-Foi utilizado os padrões de PageObjects, sempre realizando as boas préticas de desenvolvimento
+Foi utilizado os padrões de PageObjects, sempre realizando as boas préticas de desenvolvimento.
 
-Linguagem utilizada - Ruby;
-Frameworks/Ferramentas: Cucumber, Capybara, Rspec;
-Plataforma utilizada: VSCode;
+- Linguagem utilizada - Ruby.
+
+- Frameworks/Ferramentas: Cucumber, Capybara, Rspec.
+
+- Plataforma utilizada: VSCode.
 
 Pré requisitos:
 
