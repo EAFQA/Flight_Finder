@@ -20,8 +20,9 @@ Pré requisitos:
   - No terminal rodar o comando: gem install bundler
   - Verificar se foi corretamente instalado com o comando: bundle-v
 
-3 - Ter instalado o ChromeDriver, preferencialmente adicionar na pasta Windows por já estar inclusa no Path;
-    Obs: chromeDriver deve ser instalado de acordo com a versão do chrome, ambos devem estar na mesma versão.
+3 - Ter instalado o ChromeDriver, preferencialmente adicionar na pasta Windows por já estar inclusa no Path.
+
+   - Obs: chromeDriver deve ser instalado de acordo com a versão do chrome, ambos devem estar na mesma versão.
 
 4 - Recomendo instalar o CMDER, que por ventura é um Terminal mais completo e mais amigável;
   - https://cmder.net/
